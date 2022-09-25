@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Javel from Jamaica, and I do Devops Engineering and Full Stack Development. I really enjoy learning languages like React and React Native. You can check out my youtube at https://www.youtube.com/channel/UCGBtj1xWX0zOGV-Erc84A6w.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javelwilson)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **javelwilson/javelwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
