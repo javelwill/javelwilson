@@ -21,7 +21,7 @@
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
   
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Firebase](https://img.shields.io/badge/-Firebase.js-333333?style=flat&logo=firebase)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoft-sql-server)
   
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
