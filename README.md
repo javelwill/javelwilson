@@ -55,7 +55,7 @@
 <h3> 🤝 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.javelwilson.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.javelwilson.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://javelwilson.com/"><img alt="Website" src="https://img.shields.io/badge/Website-javelwilson.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/javelwilson/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Javel%20Wilson-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:javelawilson@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-javelawilson@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
