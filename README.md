@@ -1,20 +1,61 @@
-### Hi there 👋
-
-I'm Javel from Jamaica, and I do Devops Engineering and Full Stack Development. I really enjoy learning languages like React and React Native. You can check out my youtube at https://www.youtube.com/channel/UCGBtj1xWX0zOGV-Erc84A6w.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javelwilson)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**javelwilson/javelwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 -->
+<h2> Hey there! 👋🏾 I'm Javel.</h2>
+
+<h3> 👨🏾‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; BSc in Computer Science at The University of Technology, Jamaica.
+- 💼 &nbsp; Working as a Senior Release Engineer at The National Jamaica Group.
+- 🌱 &nbsp; Learning more about UX/UI, Full Stack Development, Devops.
+- ✍️ &nbsp; Exploring web/mobile app ideas and creating courses/tutorials as hobbies/side hustles.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
+  
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Firebase](https://img.shields.io/badge/-Firebase.js-333333?style=flat&logo=firebase)
+  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoft-sql-server)
+  
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+  ![Powershell](https://img.shields.io/badge/-Powershell-333333?style=flat&logo=powershell)
+  
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+  ![Elastic Stack](https://img.shields.io/badge/-Elastic%20Stack-333333?style=flat&logo=elastic-stack)
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+<h3> 📊 &nbsp;Github Stats</h3>
+
+<a href="https://github.com/javelwilson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javelwilson&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javelwilson&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.javelwilson.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.javelwilson.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/javelwilson/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Javel%20Wilson%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:javelawilson@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-javelawilson@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
